@@ -1,0 +1,4 @@
+NODE_ENV = developmet
+PORT = 8000
+DB = "mongodb+srv://AlmogLib:Tkn5566Mdb@almogcluster.dkf3uv6.mongodb.net/CardBiz"
+JWTKEY = "mysecrettoken"
